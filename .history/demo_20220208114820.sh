@@ -1,4 +1,4 @@
 #!/bin/bash
 
 echo "message updated here for sake"
-echo "hello commit th emessage"
+echo "hello earn"
