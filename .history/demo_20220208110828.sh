@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo "let's check how it "
